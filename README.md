@@ -1,5 +1,7 @@
 # prov-it: Provenance Tools and Techniques for daily use
 
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
 This repository contains code for tracking, maintaining and disseminating provenance information associated with our work. Here, our definition and application closely follows that of the W3C Provenance Working Group who state  "Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness" (https://www.w3.org/TR/prov-overview/, retrieved 2017-10-09). The code in this repository relies heavily on ideas laid out by the Provenance Working Group in a set of guidance documents collectively known as the [PROV Family of Documents](https://www.w3.org/TR/prov-overview/).
 
 ## Provisional Software Disclaimer
